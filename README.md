@@ -1,8 +1,6 @@
-��#� �M�I�D�I�
-�
-�
+This project is hosted on Vercel. 
+Access at: https://controller-midi.vercel.app/
 
 
 
 
-https://controller-midi.vercel.app/
